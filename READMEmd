@@ -1,0 +1,18 @@
+# CLOUD = DEVOPS+JOURNEY
+**GOAL:** become exceptionally good at cloud/devops role
+**STACK:** GCP, LINUX, DOCKER, TERRAFORM, CI?CD
+**TIMELINE:** Started April 2026
+
+## REPO STRUCTURE
+
+| Folder | What's inside |
+|---|---|
+| 'gcp-notes/' | DAily GCP study notes|
+| 'Linux-practice/' | Shell scripts and exercises |
+| 'projects/' | Hands-on GCP projects |
+| 'Devops-lab/' | Docker, Terraform, CI/CD configs |
+| 'cert-prep/' | Certification Study Material |
+
+> Building in public. Everyday counts.
+ 
+
